@@ -1,0 +1,38 @@
+h1 {
+    color: black;
+    font-weight: bold;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.delete {
+    max-width: 100px;
+    margin-right: 10px;
+    background-color: red;
+}
+#new-task-content {
+    width: fit-content;
+}
+#new-to-do {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#border {
+    border: 1px solid rgb(0, 171, 156);
+    flex-wrap: nowrap;
+}
+p {
+    max-width: 85% !important;
+    font-weight: 700;
+}
+.mark-complete {
+    width: auto;
+}
+body {
+    background-color: rgb(241, 232, 239);
+}
+.add {
+    background-color: green;
+}
+#main-content {
+    background-color: rgb(250, 250, 206);
+    border: 1px solid rgb(0, 171, 156);
+}
